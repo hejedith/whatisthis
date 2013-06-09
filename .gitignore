@@ -1,0 +1,214 @@
+<STYLE>
+<!--
+A{text-decoration:none}
+-->
+</STYLE>
+
+ 
+<p><img src="bilder/helloworld.gif" width=200 height=200 alt= alt="hej"></p>
+
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41342125-1', 'wwwedith.se');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body bgcolor="#FAFAFC" 
+<body style="background-image:url('bilder/hej.png');background-attachment:fixed">
+ <center><font size="10" face="Helvetica Neue" color="white"><h1><strong>HELLO! &#9786;</strong></h1> </font>
+
+  <body link="black" vlink="#808080" alink="black"> 
+
+  <p><font size="2" face="Consolas" color="black">I'm currently studying at the Digital Data Strategist program at Hyper Island.<br> I want to work with data analysis and visualisation, front end programming<br> and editing film. I love that the earth exists nice items.  To end this preamble I would like to say<br> that I think Arrested Development<br> and the Internet<br> are genius. </font></p></center>
+ <br>
+</br>
+
+<br>
+</br>
+<div style="margin-left: 100px;">
+<font size="3" face="Consolas, Arial" color="black">CONTACT</a><br></font>
+  <br>
+   <font size="2" face="Consolas, Arial" color="black"><a href="mailto:edith.borjesson@hyperisland.se?Subject=Hello%20again">
+edith.borjesson@hyperisland.se</a>
+   <p>+46 70 440 51 74</p>
+   <p><font size="2" face="Consolas, Arial" color="black"><a href="http://www.linkedin.com/profile/view?id=208829784&trk=tab_pro"target="_blank">
+Linkedin</a></p>
+<p><font size="2" face="Consolas, Arial" color="black"><a href="http://www.hyperisland.com/people/edith-borjesson"target="_blank">
+Hyper Island</a></p>
+ </font>
+
+
+   <br>
+ </br>
+ <br>
+</br>
+<br>
+ </br>
+ <br>
+</br>
+  <font size="3" face="Consolas, Arial" color="black"><a id="link2">HYPER ISLAND PROJECTS</a>
+    <br>
+   <p>&#9660; Bonnier</p>
+
+
+<div style="margin-right: 100px;"><font size="2" color="black">We did a HTML5 prototype app for Bonnier Digital that recommends the most<br> relevant articles from Bonnier's brands based on social media buzzwords.<br> We named the app Topical.
+<br>
+</br>
+<strong>My role:</strong> Creative, Concept developer</div>
+  <p><img src="bilder/topi.png" width=431 height=390 alt= alt="hej"></p>
+</div></font>
+</div>
+<br>
+ </br>
+ <br>
+</br>
+<div style="margin-left: 100px;">
+<font size="3"><p>&#9660; Growth of Knowledge</p></font>
+
+<a href="http://growth.hyperisland.com/#hi"target="_blank">
+<img src="bilder/data.jpeg" border="0" width=500 height=800>
+</a>
+<br>
+<br><font size="2" color="black">We made an interactive data visualization by collecting all the data we needed<br> of topics getting covered by industry professionals on each and every program at Hyper Island.
+<br>
+</br>
+Click on the image for entering the interactiveness &#9650;
+  <br>
+</br>
+<p><strong>My role:</strong> Concept developer, data analysist</p>
+
+
+</div>
+
+<br>
+ </br>
+ <br>
+</br>
+<div style="margin-left: 100px;">
+<font size="3"><p>&#9660; A game</font>
+
+<div id="flashContent">
+      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="350" id="RECOVER_Edith_the_programmer" align="middle">
+        <param name="movie" value="RECOVER_Edith_the_programmer.swf" />
+        <param name="quality" value="high" />
+        <param name="bgcolor" value="#ffffff" />
+        <param name="play" value="true" />
+        <param name="loop" value="true" />
+        <param name="wmode" value="window" />
+        <param name="scale" value="showall" />
+        <param name="menu" value="true" />
+        <param name="devicefont" value="false" />
+        <param name="salign" value="" />
+        <param name="allowScriptAccess" value="sameDomain" />
+        <!--[if !IE]>-->
+        <object type="application/x-shockwave-flash" data="RECOVER_Edith_the_programmer.swf" width="750" height="525">
+          <param name="movie" value="RECOVER_Edith_the_programmer.swf" />
+          <param name="quality" value="high" />
+          <param name="bgcolor" value="#ffffff" />
+          <param name="play" value="true" />
+          <param name="loop" value="true" />
+          <param name="wmode" value="window" />
+          <param name="scale" value="showall" />
+          <param name="menu" value="true" />
+          <param name="devicefont" value="false" />
+          <param name="salign" value="" />
+          <param name="allowScriptAccess" value="sameDomain" />
+        <!--<![endif]-->
+          <a href="http://www.adobe.com/go/getflash">
+            <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+          </a>
+        <!--[if !IE]>-->
+        </object>
+        <!--<![endif]-->
+      </object>
+    </div>
+
+
+</div></p>
+
+
+<script language="JavaScript">
+function ShowHide(divId)
+{
+if(document.getElementById(divId).style.display == 'none')
+{
+document.getElementById(divId).style.display='block';
+}
+else
+{
+document.getElementById(divId).style.display = 'none';
+}
+}
+</script></p></font></div>
+<div style="margin-left: 100px;"><font size="2" color="black">I made a game in Flash, using Actionscript 2. PLAY HERE! &#9650;<br></font></div>
+   <br>
+</br>
+  <br>
+</br>
+</div>
+<br>
+ </br>
+ <br>
+</br>
+<div style="margin-left: 100px;">
+<font size="3" face="Consolas, Arial" color="black">OTHER PROJECTS</font>
+<br>
+<font size="2" face="Consolas"><p>&#9660; Yamarill</a></p></font>
+
+
+  <iframe src="http://player.vimeo.com/video/66566821" width="700" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+<br>
+</br>
+<font size="2" face="Consolas" color="black">The Grand Battle is an experiment of tracking and visualizing live data.<br>
+</br>
+The Nation of Yamarill, an innovative DJ team, asked us to pitch on a concept<br> for one of their events. We came up with the idea to track the participants smartphones for<br>
+movement. By joining the experiment through a web application we developed, we<br> were able to track the movement from the crowd through their phones.
+To engage<br> as many as possible we not only projected a visualization on the wall of<br> the collective movement, we also displayed the participants individual movement<br> on their screens. The more they danced the quicker the colorful light flashed,<br> which also made it possible for people to recognize others in their family.<br>
+</br>
+<strong>Project by:</strong> Edith B&ouml;rjesson, Ellinore Funck, Christina Holmstoel & Daniel Beauchamp
+<br>
+<strong>My role:</strong> Concept and design
+</div>
+<br>
+ </br>
+ <br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<div style="margin-left: 100px;">
+  <font size="2" face="Consolas"><p>&#9660; My popcorn resume</a></p></font>
+  
+<p><img src="bilder/cv.png" width=350 height=450 alt= alt="hej"></p>
+<p><font size="2" face="Consolas" color="black"><p>Yeah, I really wanted a job<br>
+  Idea by me, graphic design by Martin L&#9061;fqvist &#9150;<a href="http://www.ilovebrain.se/" target="_blank">Ilovebrain</a>&#9164;</p></font>
+
+<br>
+</br>
+<br>
+</br>
+<br>
+ </br>
+ <br>
+</br>
+<font size="3" color="black" face="Consolas"><p>TUMBLRS</p></font>
+<font size="2" color="black" face="Consolas"></p><a href="http://wallpapers4thepeople.tumblr.com/" target="_blank"><p>wallpapers4thepeople</a>
+</p><a href="http://dataforever.tumblr.com/" target="_blank"><p>dataforever</a></font></div>
+   <br>
+ </br></div>
+  </div> 
+   
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="javascript/smoothscroll.js"></script>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
